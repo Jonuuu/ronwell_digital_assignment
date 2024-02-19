@@ -27,8 +27,3 @@ Verify that the user can logout successfully.
 
 Case 8#
 Report the answer to one of the questions asked in the help section in TestResult
-
-----------------------------------------------------------------------------------
-Project will be downloaded from GitHub, make sure the final version pushed.
-The repository, architecture and naming should be as organized as possible.
-Trendyol or any e-commerce website.
